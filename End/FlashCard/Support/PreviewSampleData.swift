@@ -5,7 +5,7 @@ Abstract:
 A view modifier for showing sample data in previews.
 */
 
-import SwiftData
+//import SwiftData
 
 @MainActor
 let previewContainer: ModelContainer = {
