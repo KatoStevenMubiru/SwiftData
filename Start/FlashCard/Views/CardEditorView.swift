@@ -2,7 +2,9 @@
 See the LICENSE.txt file for this sample’s licensing information.
 
 Abstract:
-A view for editing the content of a card.
+ view for editing the content of a card.
+ 
+ Owner : Kato Steven Mubiru
 */
 
 import SwiftUI
