@@ -8,8 +8,9 @@ A model that represents a card.
 import Foundation
 import SwiftData
 
+@Model
 final class Card {
-   var front: String
+    var front: String
     var back: String
     var creationDate: Date
 
