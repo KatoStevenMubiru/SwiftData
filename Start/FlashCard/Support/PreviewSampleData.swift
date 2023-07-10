@@ -6,6 +6,7 @@ A view modifier for showing sample data in previews.
 */
 
 import SwiftData
+import  SwiftUI
 
 @MainActor
 let previewContainer: ModelContainer = {
