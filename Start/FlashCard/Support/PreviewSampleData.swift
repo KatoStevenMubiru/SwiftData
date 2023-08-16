@@ -6,7 +6,7 @@ A view modifier for showing sample data in previews.
 */
 
 import SwiftData
-import  SwiftUI
+import SwiftUI
 
 @MainActor
 let previewContainer: ModelContainer = {
@@ -22,3 +22,4 @@ let previewContainer: ModelContainer = {
         fatalError("Failed to create container")
     }
 }()
+
